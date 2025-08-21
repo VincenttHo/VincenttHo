@@ -32,5 +32,5 @@ I'm a programmer who loves **video games** and building fun projects.
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VincenttHo&show_icons=true&theme=radical" alt="VincenttHo's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincenttHo&layout=compact&langs_count=8&theme=radical&hide_border=true&exclude_repo=astrbot_prompts_collection,ravenote,virus-bar_u_faq,home,raven95676.github.io" alt="Raven's Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincenttHo&layout=compact&langs_count=8&theme=radical&hide_border=true&exclude_repo=astrbot_prompts_collection,ravenote,virus-bar_u_faq,home" alt="VincenttHo's Top Languages"/>
 </p>
